@@ -1,0 +1,4 @@
+Jun 22, 2021
+bad pin: 
+#6 Ground
+#14 Ground
