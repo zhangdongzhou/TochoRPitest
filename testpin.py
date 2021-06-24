@@ -1,6 +1,6 @@
 import RPi.GPIO as GPIO
 import time
-GPIOnum = 38
+GPIOnum = 5
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(GPIOnum, GPIO.OUT)
 GPIO.output(GPIOnum, GPIO.HIGH)
